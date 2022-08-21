@@ -1,14 +1,19 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincent Kimatu
+<!-- # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincent Kimatu -->
+
+<h1 align="center">
+  <img src="./name.svg" alt="Vincent Kimatu" />
+</h1>
 
 ## I'm a passionate self taught web designer and frontend developer.
 
 ### About Me
+
 - 💻 I'm currently working as a freelancer.
 - ⚡ I'm looking to collaborate on OpenSource Projects All my projects are available in my portfolio <b>(My Portfolio coming soon)</b>.
 - 🌍  I'm based in Nairobi, Kenya
 - ✉️  You can contact me at [vincentkimatu.design@gmail.com](mailto:vincentkimatu.design@gmail.com)
 - 🧠  I'm currently learning ReactJs.
-- ⭐  Fun fact <b>I love to code</b>.
+- ⭐ Fun fact <b>I love to code</b>.
 
 ### My Tech Stack
 
@@ -31,7 +36,6 @@
 <a href="https://www.linkedin.com/in/VincentKimatu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="padding-right: 15px;" /></a>
 <a href="https://www.twitter.com/VincentKimatu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
-
 
 <b>My GitHub Stats</b>
 
