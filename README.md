@@ -2,7 +2,7 @@
   <img src="./name.svg" alt="Vincent Kimatu" />
 </h1>
 
-<div id="badges"></div>
+<div align="center">
 	<a href="https://www.linkedin.com/in/VincentKimatu">
 		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
