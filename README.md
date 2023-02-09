@@ -51,14 +51,12 @@
   <summary>⚡ Github Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=VincentKimatu&theme=monokai&show_icons=true" alt="Vincent Kimatu Github Stats" />
-  </br>
-  <b>Note</b> Top languages is only a metric of the languages my public code consist of and does not reflect experience or skill level.
 </details>
-
-  </br>
 
 <details>
   <summary>🌐 Most used languages</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentKimatu&theme=monokai" alt="Oops, something went wrong with most used languages graph. Sorry!" />
+  </br>
+  <b>Note</b> Top languages is only a metric of the languages my public code consist of and does not reflect experience or skill level.
 </details>
