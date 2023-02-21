@@ -9,7 +9,7 @@
 	<!-- <a href="#">
 		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="Vincent Kimatu Portfolio"/>
 	</a> -->
-  <a style="padding: 0 10px;" href="mailto:vincentkimatu.design@gmail.com">
+  <a style="padding: 0 10px;" href="mailto:vincentkimatu.dev@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-A9D8B3?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
 	</a>
   <!-- <img src="https://img.shields.io/github/stars/VincentKimatu?color=%23C2E59B&logo=Github&style=for-the-badge" alt="GitHub stars"/> -->
@@ -50,7 +50,7 @@
 <details>
   <summary>⚡ Github Stats</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=VincentKimatu&theme=monokai&show_icons=true" alt="Vincent Kimatu Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VincentKimatu&theme=monokai&show_icons=true" alt="Oops, something went wrong with Github Stats graph. Sorry!" />
 </details>
 
 <details>
@@ -59,4 +59,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentKimatu&theme=monokai" alt="Oops, something went wrong with most used languages graph. Sorry!" />
   </br>
   <b>Note</b> Top languages is only a metric of the languages my public code consist of and does not reflect experience or skill level.
+</details>
+
+<details>
+  <summary> ⌛ Wakatime Week Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VincentKimatu" alt="Oops, something went wrong with Wakatime Week Stats graph. Sorry!">
 </details>
