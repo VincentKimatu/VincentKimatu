@@ -64,5 +64,5 @@
 <details>
   <summary> ⌛ Wakatime Week Stats</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VincentKimatu" alt="Oops, something went wrong with Wakatime Week Stats graph. Sorry!">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VincentKimatu&theme=monokai" alt="Oops, something went wrong with Wakatime Week Stats graph. Sorry!">
 </details>
