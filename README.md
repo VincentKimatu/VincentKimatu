@@ -56,7 +56,7 @@
 <details>
   <summary>🌐 Most used languages</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentKimatu&theme=monokai" alt="Oops, something went wrong with most used languages graph. Sorry!" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentKimatu&theme=monokai&layout=compact" alt="Oops, something went wrong with most used languages graph. Sorry!" />
   </br>
   <b>Note</b> Top languages is only a metric of the languages my public code consist of and does not reflect experience or skill level.
 </details>
@@ -64,5 +64,7 @@
 <details>
   <summary> ⌛ Wakatime Week Stats</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VincentKimatu&theme=monokai" alt="Oops, something went wrong with Wakatime Week Stats graph. Sorry!">
+  <a href="https://wakatime.com/@VincentKimatu" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VincentKimatu&theme=monokai&custom_title=Wakatime%20week%20stats&layout=compact" alt="Oops, something went wrong with Wakatime Week Stats graph. Sorry!">
+  </a>
 </details>
