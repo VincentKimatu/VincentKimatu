@@ -61,10 +61,10 @@
   <b>Note</b> Top languages is only a metric of the languages my public code consist of and does not reflect experience or skill level.
 </details>
 
-<details>
+<!-- <details>
   <summary> ⌛ Wakatime Week Stats</summary>
   <br>
   <a href="https://wakatime.com/@VincentKimatu" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VincentKimatu&theme=monokai&custom_title=Wakatime%20week%20stats&layout=compact" alt="Oops, something went wrong with Wakatime Week Stats graph. Sorry!">
   </a>
-</details>
+</details> -->
