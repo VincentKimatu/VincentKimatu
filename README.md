@@ -18,8 +18,8 @@
 
 - 💻 I'm currently working as a freelancer.
 - ⚡ I'm looking to collaborate on OpenSource Projects. All my projects are available in my portfolio <b>(My Portfolio coming soon)</b>.
-- 🌍  I'm based in Nairobi, Kenya.
-- 🧠  I'm currently learning ReactJs.
+- 🌍 I'm based in Nairobi, Kenya.
+- 🧠 I'm currently learning ReactJs.
 - ⭐ Fun fact <b>I love to code</b>.
 
 ### Languages and Tools:
