@@ -3,19 +3,13 @@
 </h1>
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/VincentKimatu">
-		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-	</a>
-	<!-- <a href="#">
-		<img src="https://img.shields.io/badge/portfolio-89C5D2?style=for-the-badge&logoColor=white" alt="Vincent Kimatu Portfolio"/>
-	</a> -->
-  <a style="padding: 0 10px;" href="mailto:vincentkimatu.dev@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-A9D8B3?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
-	</a>
-  <!-- <img src="https://img.shields.io/github/stars/VincentKimatu?color=%23C2E59B&logo=Github&style=for-the-badge" alt="GitHub stars"/> -->
-  <a>
-	<img src="https://komarev.com/ghpvc/?username=VincentKimatu&style=for-the-badge&color=89C5D2" alt="profile views"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/-My%20LinkedIn-64B3F3?style=flat&logo=linkedin)](https://www.linkedin.com/in/VincentKimatu)
+[![GMail](https://img.shields.io/badge/-Gmail-A9D8B3?style=flat&logo=Gmail)](mailto:vincentkimatu.dev@gmail.com)
+[![wakatime](https://wakatime.com/badge/user/538fba1c-7910-4989-9654-aa93b855e21a.svg)](https://wakatime.com/@538fba1c-7910-4989-9654-aa93b855e21a)
+
+<!-- ![GitHub Stars](https://img.shields.io/github/stars/VincentKimatu?color=%23C2E59B&logo=Github&style=for-the-badge) -->
+
 </div>
 
 ## I'm a passionate self taught web designer and frontend developer.
@@ -23,27 +17,36 @@
 ### About Me
 
 - 💻 I'm currently working as a freelancer.
-- ⚡ I'm looking to collaborate on OpenSource Projects All my projects are available in my portfolio <b>(My Portfolio coming soon)</b>.
-- 🌍  I'm based in Nairobi, Kenya
+- ⚡ I'm looking to collaborate on OpenSource Projects. All my projects are available in my portfolio <b>(My Portfolio coming soon)</b>.
+- 🌍  I'm based in Nairobi, Kenya.
 - 🧠  I'm currently learning ReactJs.
 - ⭐ Fun fact <b>I love to code</b>.
 
 ### Languages and Tools:
 
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-</p>
+<div align="center">
+<img alt="C" src="https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/-Python-7289DA?style=flat&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white"/>
+<img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-45B8D8?style=flat&logo=react&logoColor=white"/>
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white"/>
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white"/>
+<img alt="SASS" src="https://img.shields.io/badge/-SASS-ff69b4?style=flat&logo=sass&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-64B3F3?style=flat&logo=php&logoColor=white"/>
+
+<img alt="GIT" src="https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-purple?style=flat&logo=figma&logoColor=white"/>
+<img alt="AdobeXD" src="https://img.shields.io/badge/-AdobeXD-E10098?style=flat&logo=AdobeXD&logoColor=white"/>
+<!--
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat"/>
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat"/>
+<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-&logo=c%2B%2B&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+-->
+</div>
                     
 <b>My GitHub Stats</b>
 
@@ -60,6 +63,15 @@
   </br>
   <b>Note</b> Top languages is only a metric of the languages my public code consist of and does not reflect experience or skill level.
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+
+[![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=VincentKimatu&label=Profile%20Views&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
+
+</div>
 
 <!-- <details>
   <summary> ⌛ Wakatime Week Stats</summary>
