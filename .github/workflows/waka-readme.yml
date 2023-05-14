@@ -18,5 +18,5 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
           SHOW_TIME: true
-          LANG_COUNT: 10
+          LANG_COUNT: 5
           COMMIT_MESSAGE: "WakaTime Data is Updated"
