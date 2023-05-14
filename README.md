@@ -83,11 +83,3 @@ YAML         2 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![Non-Unique Visit Count](https://komarev.com/ghpvc/?username=VincentKimatu&label=Profile%20Views&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
 
 </div>
-
-<!-- <details>
-  <summary> ⌛ Wakatime Week Stats</summary>
-  <br>
-  <a href="https://wakatime.com/@VincentKimatu" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VincentKimatu&theme=monokai&custom_title=Wakatime%20week%20stats&layout=compact" alt="Oops, something went wrong with Wakatime Week Stats graph. Sorry!">
-  </a>
-</details> -->
