@@ -64,7 +64,7 @@
   <b>Note</b> Top languages is only a metric of the languages my public code consist of and does not reflect experience or skill level.
 </details>
 
-### :balance_scale: Development Consumption Time In Week's Scale
+<!-- ###:balance_scale: Development Consumption Time In Week's Scale -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
